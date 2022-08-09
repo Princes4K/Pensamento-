@@ -1,0 +1,17 @@
+style.css
+h1{font-size: 24pt;}
+h1{color: darkred; text-align:center;}
+p{text-align: justify;font-size: 18pt; font-family:cursive; color: black;}
+button{text-align: center; margin-left:35%;}
+body{
+    pointer-events: auto !important;
+    background-size: 100% !important;
+    opacity: 0.90 !important;
+    background-position: 0 0 !important;
+    background-image: url('v870-mynt-20_1_2.jpg');
+    content: '';
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    background-repeat:repeat;
+    }
