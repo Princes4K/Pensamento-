@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Gstronomia</title>
+<title> Gstronomia </title>
 <P>O que é Gastronomia:
 A gastronomia estuda não apenas os vários modos de preparação do alimento,
 mas também as bebidas indicadas para cada refeição e os materiais utilizados
