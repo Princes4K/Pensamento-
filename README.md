@@ -7,6 +7,7 @@ A gastronomia estuda não apenas os vários modos de preparação do alimento,
 mas também as bebidas indicadas para cada refeição e os materiais utilizados
  na confecção dos pratos. O profissional que se especializa em gastronomia é 
  chamado de gastrólogo ou “chefe gourmet”, em alguns casos. </p>
+ <img>/tmp/guest-ykg6fd/Área de Trabalho/jason-chefgourmet.jpg.crdownload</img>
 <P> O que se estuda a Gastronomia?
 O profissional de Gastronomia reúne conhecimentos que vão muito além das habilidades
  técnicas para preparar os alimentos. Durante o estudo, os alunos aprendem sobre gestão, 
