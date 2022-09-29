@@ -34,4 +34,5 @@ na segurança alimentar, produção industrial e muito mais.
     alimentação de sobrevivência. A gastronomia nasceu desse prazer e constituiu-se como a arte de cozinhar e 
     associar os alimentos para deles retirar o máximo de benefício.  </p>
     <p> </p>
+    <img>/tmp/guest-ykg6fd/Área de Trabalho/gastronomia-03.jpg</img>
     
